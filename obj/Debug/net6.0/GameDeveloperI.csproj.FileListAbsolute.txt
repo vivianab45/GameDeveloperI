@@ -1,0 +1,15 @@
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/obj/Debug/net6.0/GameDeveloperI.csproj.AssemblyReference.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/obj/Debug/net6.0/GameDeveloperI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/obj/Debug/net6.0/GameDeveloperI.AssemblyInfoInputs.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/obj/Debug/net6.0/GameDeveloperI.AssemblyInfo.cs
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/obj/Debug/net6.0/GameDeveloperI.csproj.CoreCompileInputs.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/bin/Debug/net6.0/GameDeveloperI
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/bin/Debug/net6.0/GameDeveloperI.deps.json
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/bin/Debug/net6.0/GameDeveloperI.runtimeconfig.json
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/bin/Debug/net6.0/GameDeveloperI.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/bin/Debug/net6.0/GameDeveloperI.pdb
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/obj/Debug/net6.0/GameDeveloperI.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/obj/Debug/net6.0/refint/GameDeveloperI.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/obj/Debug/net6.0/GameDeveloperI.pdb
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/obj/Debug/net6.0/GameDeveloperI.genruntimeconfig.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/GameDeveloperI/obj/Debug/net6.0/ref/GameDeveloperI.dll
